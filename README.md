@@ -1,10 +1,6 @@
-# Pandas Descriptive Statistics Script 
+# PySpark to perform data processing
 
-[![Python Stats CI](https://github.com/nogibjj/IDS-Week2_MiniProject_us26/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/IDS-Week2_MiniProject_us26/actions/workflows/main.yml)
 
-<p align="center">
-  <img width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Standard_Normal_Distribution.png/1920px-Standard_Normal_Distribution.png" alt="My Image">
-</p>
 
 ## Overview
 

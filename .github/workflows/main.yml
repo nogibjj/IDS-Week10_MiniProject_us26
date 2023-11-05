@@ -1,4 +1,4 @@
-name: Python Stats CI
+name: PySpark CI/CD
 
 on:
   push:

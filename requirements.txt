@@ -19,3 +19,4 @@ plotly
 kaleido
 pyspark
 findspark
+matplotlib

@@ -1,13 +1,23 @@
-# PySpark to perform data processing
+# PySpark to perform Data Processing
 
 
 
 ## Overview
+PySpark is the Python API for Apache Spark. It enables you to perform real-time, large-scale data processing in a distributed environment using Python. It also provides a PySpark shell for interactively analyzing your data.
 
-This repo has been created using my week 1 mini project as the template which has all the necessary steps to automate the process and I will be using that repo for my future projects as well. 
-The current repo is for creating _*Pandas Descriptive Statistics Script*_ using DevOps principles.
+PySpark combines Python’s learnability and ease of use with the power of Apache Spark to enable processing and analysis of data at any size for everyone familiar with Python.
+
+More Information [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
 
 ## Code Description
+
+
+
+
+
+
+
+
 
 
 ## CI/CD Automation files
